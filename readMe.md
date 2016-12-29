@@ -13,7 +13,8 @@
 
 This simple example provides a way to base .get & .pull using the iron:router package to send header signals between the client and serer. It requires http://getpostman.com/ to configure. 
 
-
+![untitled2](https://cloud.githubusercontent.com/assets/23016977/21555462/43d0c4ce-ce10-11e6-910f-56567702b6ad.jpg)
+![untitled](https://cloud.githubusercontent.com/assets/23016977/21555461/4397cae8-ce10-11e6-9741-2bd2b5493e1f.png)
 
 #The BASICS
 
